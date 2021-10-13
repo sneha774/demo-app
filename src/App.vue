@@ -1,6 +1,6 @@
 <template>
 <div class="app">
-  Hello, Snehal
+  Hello, Nihira
 </div>
 </template>
 
